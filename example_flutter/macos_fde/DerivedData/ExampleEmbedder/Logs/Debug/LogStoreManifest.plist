@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0E98FD4E-1948-4A66-A6D1-0CB4E444F4FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0E98FD4E-1948-4A66-A6D1-0CB4E444F4FD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ExampleEmbedder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ExampleEmbedder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Example Embedder</string>
+			<key>timeStartedRecording</key>
+			<real>575374003.80798304</real>
+			<key>timeStoppedRecording</key>
+			<real>575375342.96300602</real>
+			<key>title</key>
+			<string>Debug Example Embedder</string>
+			<key>uniqueIdentifier</key>
+			<string>0E98FD4E-1948-4A66-A6D1-0CB4E444F4FD</string>
+		</dict>
+		<key>E88A5873-A16E-4BD5-93D4-E42F6DBBB0FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E88A5873-A16E-4BD5-93D4-E42F6DBBB0FE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ExampleEmbedder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ExampleEmbedder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Example Embedder</string>
+			<key>timeStartedRecording</key>
+			<real>575375379.39768302</real>
+			<key>timeStoppedRecording</key>
+			<real>575375395.88534701</real>
+			<key>title</key>
+			<string>Debug Example Embedder</string>
+			<key>uniqueIdentifier</key>
+			<string>E88A5873-A16E-4BD5-93D4-E42F6DBBB0FE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
